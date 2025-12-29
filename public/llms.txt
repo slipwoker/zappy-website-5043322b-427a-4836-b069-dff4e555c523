@@ -1,57 +1,47 @@
-# Poopourious — Generative Engine Optimization Map
-
-> A agriculture/sustainability business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### Home
-https://poopourious-5043322b.zappy5.app
+https://example.com
 Transform your garden with Poopourious - expert home & garden solutions using sustainable, eco-friendly fertilizers. Join thousands of home gardeners achieving healthier plants naturally.
 
 ### Services
-https://poopourious-5043322b.zappy5.app/services
+https://example.com/services
 Discover Poopourious comprehensive home & garden fertilizer services. From organic compost to specialized plant nutrition, we help home gardeners grow healthier plants sustainably.
 
 ### About
-https://poopourious-5043322b.zappy5.app/about
+https://example.com/about
 Learn about Poopourious - a leading fertilizer company dedicated to sustainable home & garden solutions. Discover our mission to help home gardeners grow naturally and responsibly.
 
 ### Contact
-https://poopourious-5043322b.zappy5.app/contact
+https://example.com/contact
 Contact Poopourious for expert home & garden fertilizer advice. Get your free consultation and discover how our organic solutions can transform your garden today.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://poopourious-5043322b.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://poopourious-5043322b.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://poopourious-5043322b.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Poopourious
-Poopourious is a business in the agriculture/sustainability industry.
-
-## Target Audience
-home gardeners
-
-## Industry
-agriculture/sustainability
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://poopourious-5043322b.zappy5.app/sitemap.xml
-- **Robots.txt**: https://poopourious-5043322b.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt

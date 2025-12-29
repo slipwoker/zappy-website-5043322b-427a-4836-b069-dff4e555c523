@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://poopourious-5043322b.zappy5.app/sitemap.xml
+Sitemap: https://example.com/sitemap.xml
